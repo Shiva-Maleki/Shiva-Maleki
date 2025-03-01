@@ -27,11 +27,13 @@
 ---
 
 ## 📬 Connect With Me
+- 📧 **Email**: [shiva.malekivarnosfaderani@gmail.com](mailto:shiva.maleki@example.com) 
 - 🌐 **Website**: [Wayne State University Profile](https://engineering.wayne.edu/profile/gy4030)  
 - 🔗 **LinkedIn**: [Shiva Maleki](https://www.linkedin.com/in/shiva-m-13535069)  
 - 📖 **Google Scholar**: [Citations](https://scholar.google.com/citations?user=skl7eewAAAAJ&hl=en&oi=ao)  
 - 🖊️ **ResearchGate**: [Shiva Maleki Varnosfaderani](https://www.researchgate.net/profile/Shiva-Maleki-Varnosfaderani)  
-- 🐦 **Twitter/X**: [@ShivaVMaleki](https://twitter.com/ShivaVMaleki)  
+- 🐦 **Twitter/X**: [@ShivaVMaleki](https://twitter.com/ShivaVMaleki)
+- 🦉 **OwlIndex**: [Shiva Maleki](https://www.owlindex.com/profiles/user-profiles/shiva.maleki/) 
 - 🔗 **GitHub**: [Shiva-Maleki](https://github.com/Shiva-Maleki)  
 
 ---
