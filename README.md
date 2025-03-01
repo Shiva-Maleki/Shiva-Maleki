@@ -5,7 +5,7 @@
 - 💡 Passionate about **AI, Healthcare Technology, and Semiconductor Design**  
 - 📚 Currently **teaching** & working on **deep learning for epilepsy prediction**  
 - 🏐 I enjoy **playing volleyball, singing, traveling, and swimming!**  
-- 🎶 Love **photography, piano, and cooking**  
+- 🎶 Love growing and improving myself
 
 ---
 
