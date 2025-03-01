@@ -4,13 +4,17 @@
 - 🎓 **Faculty at Wayne State University**  
 - 💡 Passionate about **AI, Healthcare Technology, and Semiconductor Design**  
 - 📚 Currently **teaching** & working on **deep learning for epilepsy prediction**  
-- 🏐 Organizing a **volleyball tournament** and love sports  
-- 🎶 I enjoy **playing volleyball, singing, traveling, and swimming!**  
+- 🏐 I enjoy **playing volleyball, singing, traveling, and swimming!**  
+- 🎶 Love **photography, piano, and cooking**  
+
+---
 
 ## 🔍 What I'm Working On
 - 📖 Writing a **book on AI for Epilepsy Prediction**  
 - 💻 Building **AI-based Embedded Healthcare Systems**  
 - 📝 Developing a **GitHub portfolio with exciting projects**  
+
+---
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,9 +24,17 @@
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A03C?style=for-the-badge)
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiva-Maleki)
-[![Website](https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+---
 
-⭐ **Fun Fact**: I love **exploring new ideas and helping students grow in their careers!** 🚀  
+## 📬 Connect With Me
+- 🌐 **Website**: [Wayne State University Profile](https://engineering.wayne.edu/profile/gy4030)  
+- 🔗 **LinkedIn**: [Shiva Maleki](https://www.linkedin.com/in/shiva-m-13535069)  
+- 📖 **Google Scholar**: [Citations](https://scholar.google.com/citations?user=skl7eewAAAAJ&hl=en&oi=ao)  
+- 🖊️ **ResearchGate**: [Shiva Maleki Varnosfaderani](https://www.researchgate.net/profile/Shiva-Maleki-Varnosfaderani)  
+- 🐦 **Twitter/X**: [@ShivaVMaleki](https://twitter.com/ShivaVMaleki)  
+- 🔗 **GitHub**: [Shiva-Maleki](https://github.com/Shiva-Maleki)  
+
+---
+
+## 📌 Fun Fact  
+⭐ I love exploring new ideas and helping students grow in their careers! 🚀 
